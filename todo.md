@@ -60,7 +60,7 @@ This document outlines the comprehensive plan for the development of ETHCO AI, i
 
 - [ ] Objective: Transform the static UI into a functional code editor with basic file operations.
 - [ ] Key Tasks:
-  - [ ] Integrate a code editor library (e.g., Monaco Editor, the engine that powers VS Code).
+  - [x] Integrate a code editor library (e.g., Monaco Editor, the engine that powers VS Code).
   - [ ] Implement the "Open Folder" functionality to load a project directory.
   - [ ] Develop the file tree navigation, allowing users to open and view files.
   - [ ] Enable basic file editing capabilities within the editor.
