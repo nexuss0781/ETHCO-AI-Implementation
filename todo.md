@@ -58,7 +58,7 @@ This document outlines the comprehensive plan for the development of ETHCO AI, i
 
 ### Phase 2: Core Editor and File System Functionality
 
-- [ ] Objective: Transform the static UI into a functional code editor with basic file operations.
+- [x] Objective: Transform the static UI into a functional code editor with basic file operations.
 - [ ] Key Tasks:
   - [x] Integrate a code editor library (e.g., Monaco Editor, the engine that powers VS Code).
   - [x] Implement the "Open Folder" functionality to load a project directory.
